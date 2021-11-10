@@ -3,7 +3,7 @@
     "exp_id": "interpersonal-support-survey",
     "description": "A 12-item measure of perceptions of social support.",
     "instructions": "For each statement, choose the most appropriate option.",
-    "url": "https://github.com/expfactory-experiments/interpersonal-support-evaluation-survey",
+    "url": "https://github.com/expfactory-experiments/interpersonal-support-survey",
     "template": "survey",
     "cognitive_atlas_task_id": "",
     "contributors": [
